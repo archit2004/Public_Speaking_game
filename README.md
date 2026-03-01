@@ -8,7 +8,7 @@
 
 
 - Google drive link with unity prototype game files   - https://drive.google.com/file/d/17cXMqM8OWzklj_dTKQJ-P-MVApiHzuqm/view?usp=sharing
-- Google drive link of prototype demo video -  https://drive.google.com/file/d/1sNMo-kTpJN5MdLKKzXFA6SMX-pUPh63k/view?usp=sharing
+- Google drive link of prototype demo video -  https://drive.google.com/file/d/1IA-tzZjuHzG1E7uOvja-BRXAyR-h_TKh/view?usp=sharing
   
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -206,6 +206,7 @@ End
 - **Video Analysis**: MediaPipe  
 - **Backend**: FastAPI (Uvicorn)  
 - **Language**: Python
+
 
 
 
