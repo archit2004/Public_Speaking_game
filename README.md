@@ -7,6 +7,9 @@
 </p>
 
 
+- Google drive link with unity prototype game files   - https://drive.google.com/file/d/17cXMqM8OWzklj_dTKQJ-P-MVApiHzuqm/view?usp=sharing
+- Google drive link of prototype demo video -  https://drive.google.com/file/d/1sNMo-kTpJN5MdLKKzXFA6SMX-pUPh63k/view?usp=sharing
+  
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Who Is It For](#who-is-it-for)
@@ -72,7 +75,7 @@ Unlike traditional workshops and online courses, this project:
 ---
 
 
-## Demo Game Flow
+## Prototype Game Flow
 
 ```
 Start 
@@ -107,13 +110,13 @@ End
 ---
 
 ## Scalability
-- Currently backend is running locally, which can be shifted to a cloud service for easy adoptability for low end systems
+- Currently for he prototype backend is running locally, which can be shifted to a cloud service for easy adoptability for low end systems
 - The Game can be expanded by adding more unique and diverse minigames
 - More powerful Speech-to-Text and Text-to-Speech  systems can be used for tolerance with wider range of accents and multiple voices.
   
 ---
 
-## How to Run Our Game
+## How to Run Our Prototype
 
 1. **Download the Code**
    - Go to the GitHub repository and download the project as a `.zip` file.
@@ -166,13 +169,13 @@ End
      uvicorn backend:app --host 0.0.0.0 --port 8000 --reload
      ```
 
-9. **Run the Game Logic**
+9. **Run the Prototype Logic**
    - On **Windows/Mac/Linux**:
      ```bash
      python nre.py
      ```
 
-10. **Launch the Game**
+10. **Launch the Game Prototype**
     - On **Windows/Mac/Linux**:
       - Navigate to the `Unity Build` folder.
       - Double-click the game executable (`.exe` on Windows, `.app` on Mac, or Linux build file).
@@ -204,10 +207,5 @@ End
 - **Backend**: FastAPI (Uvicorn)  
 - **Language**: Python
 
----
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.  
-
----
 
