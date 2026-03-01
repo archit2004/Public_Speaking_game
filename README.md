@@ -58,7 +58,6 @@ Unlike traditional workshops and online courses, this project:
 - Immersive environments: **Office, Presentation Hall, Outdoor**  
 - Interactive NPCs with unique personalities & memory  
 - Mini-games to improve English skills (e.g., Hangman)
-<img width="1495" height="835" alt="Outside" src="https://github.com/user-attachments/assets/40808ac9-3df2-4541-b940-4acf61d049da" />
 
 
 ---
@@ -69,7 +68,6 @@ Unlike traditional workshops and online courses, this project:
 4. LLM replies in character → audio generated via **Coqui-TTS**  
 5. Evaluation node checks responses → updates pass/fail meter  
 6. Conversation continues until time limit → final evaluation  
-<img width="1496" height="837" alt="Auditorium" src="https://github.com/user-attachments/assets/e6aa7f7d-0ec0-4113-9fea-fe850cea0a5d" />
 
 ---
 
@@ -212,3 +210,4 @@ End
 Contributions are welcome! Please open an issue or submit a pull request.  
 
 ---
+
