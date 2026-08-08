@@ -7,9 +7,16 @@
 </p>
 
 
-- Google drive link with unity prototype game files   - https://drive.google.com/file/d/17cXMqM8OWzklj_dTKQJ-P-MVApiHzuqm/view?usp=sharing
-- Google drive link of prototype demo video -  https://drive.google.com/file/d/1IA-tzZjuHzG1E7uOvja-BRXAyR-h_TKh/view?usp=sharing
-  
+# Climb the Corporate Ladder
+
+Welcome to the **future of public speaking training**.  
+<img width="1496" height="837" alt="Office" src="https://github.com/user-attachments/assets/2987fd14-884e-4959-ac71-1090101e89ab" />
+
+---
+
+## Submissions
+- Google drive link with unity game files   - https://drive.google.com/file/d/17cXMqM8OWzklj_dTKQJ-P-MVApiHzuqm/view?usp=sharing
+- Google drive link with .exe file and demo video -  https://drive.google.com/drive/folders/1c-oq_U8_P13tZrMTBVBMZl3De_2TbDOE?usp=sharing
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Who Is It For](#who-is-it-for)
@@ -29,7 +36,7 @@
 ---
 
 ## About the Project
-Public Speaking game is a **gamified training program** that blends **AI-powered feedback, immersive environments, and mini-games** to help individuals improve their public speaking and communication skills through high pressure test scenarios based on real life along with mini games and fun activities.  
+Climb the Corporate Ladder is a **gamified training program** that blends **AI-powered feedback, immersive environments, and mini-games** to help individuals improve their public speaking and communication skills through high pressure test scenarios based on real life along with mini games and fun activities.  
 
 ---
 
@@ -61,6 +68,7 @@ Unlike traditional workshops and online courses, this project:
 - Immersive environments: **Office, Presentation Hall, Outdoor**  
 - Interactive NPCs with unique personalities & memory  
 - Mini-games to improve English skills (e.g., Hangman)
+<img width="1495" height="835" alt="Outside" src="https://github.com/user-attachments/assets/40808ac9-3df2-4541-b940-4acf61d049da" />
 
 
 ---
@@ -71,11 +79,12 @@ Unlike traditional workshops and online courses, this project:
 4. LLM replies in character → audio generated via **Coqui-TTS**  
 5. Evaluation node checks responses → updates pass/fail meter  
 6. Conversation continues until time limit → final evaluation  
+<img width="1496" height="837" alt="Auditorium" src="https://github.com/user-attachments/assets/e6aa7f7d-0ec0-4113-9fea-fe850cea0a5d" />
 
 ---
 
 
-## Prototype Game Flow
+## Demo Game Flow
 
 ```
 Start 
@@ -110,13 +119,13 @@ End
 ---
 
 ## Scalability
-- Currently for he prototype backend is running locally, which can be shifted to a cloud service for easy adoptability for low end systems
+- Currently backend is running locally, which can be shifted to a cloud service for easy adoptability for low end systems
 - The Game can be expanded by adding more unique and diverse minigames
 - More powerful Speech-to-Text and Text-to-Speech  systems can be used for tolerance with wider range of accents and multiple voices.
   
 ---
 
-## How to Run Our Prototype
+## How to Run Our Game
 
 1. **Download the Code**
    - Go to the GitHub repository and download the project as a `.zip` file.
@@ -169,13 +178,13 @@ End
      uvicorn backend:app --host 0.0.0.0 --port 8000 --reload
      ```
 
-9. **Run the Prototype Logic**
+9. **Run the Game Logic**
    - On **Windows/Mac/Linux**:
      ```bash
      python nre.py
      ```
 
-10. **Launch the Game Prototype**
+10. **Launch the Game**
     - On **Windows/Mac/Linux**:
       - Navigate to the `Unity Build` folder.
       - Double-click the game executable (`.exe` on Windows, `.app` on Mac, or Linux build file).
@@ -207,6 +216,9 @@ End
 - **Backend**: FastAPI (Uvicorn)  
 - **Language**: Python
 
+---
 
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.  
 
-
+---
